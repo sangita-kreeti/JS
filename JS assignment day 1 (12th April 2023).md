@@ -4,7 +4,7 @@
 1. Write a program that declares a variable using var, let, and const and prints the value to the console.
 
    Ans: 
-    ```
+    ```js
     var x;
     let y;
     const z=3;
